@@ -22,7 +22,7 @@ Since our primary focus was to identify the effect of COVID-19 on people's menta
 
 Here, we identified that out of the 195 students, 138 (71%) students showed signs of stress and anxiety. In addition to this, we provided a breakdown of the reasons the student feels stress or anxious.
 
-**[Case study 2: ]()**
+**[Case study 2: COVID-19 Survey Student](https://www.kaggle.com/kunal28chaturvedi/covid19-and-its-impact-on-students)**
 
 In this study which was carried out on some students in India, about 831 students believed that during this pandemic they had the opporunity to connect to their parents, relatives, siblings. Where as 351 students had no effect.
 
