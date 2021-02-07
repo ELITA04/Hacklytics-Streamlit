@@ -28,6 +28,7 @@ In this study which was carried out on some students in India, about 831 student
 
 **[Case Study 3: Analyzing sucide rates in the US between 2015-2020]()**
 
+On analyzing the data we found that the number of suicide rates in 2020, is much higher compared to the previous years.
 
 ### Emotion Classification
 - For the video recognition, we made use of [RADVESS Emotion Speech Audio Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)
