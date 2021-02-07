@@ -8,7 +8,7 @@ The year of 2020 will go down in history as one of the worst year for positive m
 
 ## What it does 🤔
 
-![Alt Text](https://github.com/ELITA04/Hacklytics-Streamlit/tree/main/assests/Hacklytics.gif)
+![Streamlit](assests/Hacklytics.gif)
 
 Mood Boost uses voice analysis to detect the users ongoing mood. When a negative mood such as anger is detected, Mood Boost will notify the user and display a positive message as well as lead the user to resources that will boost their mood! When a positive mood such as excitement is detected, Mood Boost will celebrate this positivity with the user.
 
