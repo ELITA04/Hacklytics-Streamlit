@@ -12,15 +12,43 @@ Mood Boost uses voice analysis to detect the users ongoing mood. When a negative
 
 ## How we build it ⚒️
 
+### Emotion Classification
+- For the video recognition, we made use of [RADVESS Emotion Speech Audio Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)
+- We performed feature extraction from .wav files which included Zero crossing rate, Chroma_stft, MFCC, RMS and MelSpectrogram. This gave us a total of 161 features
+- Using these features along with the labels, we trained a CNN model. We plotted the accuracy, losses and confusion matrix.
+- We then saved the model weights so that it could be included in the streamlit application.
+
+### Visualizations
+Since our primary focus was to identify the effect of COVID-19 on people's mental health and how we could help. We also created visualizations based on research papers and surveys carried out
+
+**[Case study 1: Effects of COVID-19 on College Students' Mental Health in the US : Interview Survey](https://www.jmir.org/2020/9/e21279/)**
+
+Here, we identified that out of the 195 students, 138 (71%) students showed signs of stress and anxiety. In addition to this, we provided a breakdown of the reasons the student feels stress or anxious.
+
+**[Case study 2: ]()**
+
+In this study which was carried out on some students in India, about 831 students believed that during this pandemic they had the opporunity to connect to their parents, relatives, siblings. Where as 351 students had no effect.
+
+**[Case Study 3: Analyzing sucide rates in the US between 2015-2020]()
+
+
+  
+  
 
 ## What we learned 💡
+
+During the hackathon, we came across several hurdles which included
+- Finding the correct data for visualization
+- Identifying the correct features to be extracted from the wav files
+- Deploying the streamlit application
+
 
 ## What’s next for Mood Boost 
 
 In the long term, Mood Boost will be in the form of a bracelet which will send vibrations to notify the user when a negative mood is detected as well as display positive messages. It will also be able to track ongoing mood changes so users can view the fluctuations in their mood.
 
 ## Contributors 👨‍💻
-- Deepa (Surname)
-- Mandy Yip
-- Utkarsh Mishra
-- Elita Menezes 
+- [Deepa C V](https://github.com/Deepa17) 
+- [Mandy Yip](https://github.com/mandyckyip)
+- [Utkarsh Mishra](https://github.com/utkarsh0702/)
+- [Elita Menezes](https://github.com/ELITA04)
