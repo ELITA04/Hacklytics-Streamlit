@@ -33,13 +33,20 @@ In this study which was carried out on some students in India, about 831 student
 - Using these features along with the labels, we trained a CNN model. We plotted the accuracy, losses and confusion matrix.
 - We then saved the model weights so that it could be included in the streamlit application.
 
-  
-## What we learned 💡
-
+## Challeneges we ran into 🕵️‍♀️
 During the hackathon, we came across several hurdles which included
 - Finding the correct data for visualization
 - Identifying the correct features to be extracted from the wav files
 - Deploying the streamlit application
+  
+## Accomplishments we are proud of 🏆
+- Networking and working with complete strangers
+- Creating meaningful visualizations
+- Completing training and actually using the model in a streamlit web application
+
+## What we learned 💡
+- We learned how to preprocess and create machine learning / deep learning models using audio files.
+- We also learned how to use python's Plotly which helped creating interactive plots.
 
 
 ## What’s next for Mood Boost 
