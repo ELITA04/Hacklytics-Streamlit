@@ -12,12 +12,7 @@ Mood Boost uses voice analysis to detect the users ongoing mood. When a negative
 
 ## How we build it ⚒️
 
-### Emotion Classification
-- For the video recognition, we made use of [RADVESS Emotion Speech Audio Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)
-- We performed feature extraction from .wav files which included Zero crossing rate, Chroma_stft, MFCC, RMS and MelSpectrogram. This gave us a total of 161 features
-- Using these features along with the labels, we trained a CNN model. We plotted the accuracy, losses and confusion matrix.
-- We then saved the model weights so that it could be included in the streamlit application.
-
+Our application is divided into 2 main parts : 
 ### Visualizations
 Since our primary focus was to identify the effect of COVID-19 on people's mental health and how we could help. We also created visualizations based on research papers and surveys carried out
 
@@ -32,9 +27,13 @@ In this study which was carried out on some students in India, about 831 student
 **[Case Study 3: Analyzing sucide rates in the US between 2015-2020]()**
 
 
-  
-  
+### Emotion Classification
+- For the video recognition, we made use of [RADVESS Emotion Speech Audio Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)
+- We performed feature extraction from .wav files which included Zero crossing rate, Chroma_stft, MFCC, RMS and MelSpectrogram. This gave us a total of 161 features
+- Using these features along with the labels, we trained a CNN model. We plotted the accuracy, losses and confusion matrix.
+- We then saved the model weights so that it could be included in the streamlit application.
 
+  
 ## What we learned 💡
 
 During the hackathon, we came across several hurdles which included
