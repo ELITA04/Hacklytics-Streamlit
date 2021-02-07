@@ -29,7 +29,7 @@ Here, we identified that out of the 195 students, 138 (71%) students showed sign
 
 In this study which was carried out on some students in India, about 831 students believed that during this pandemic they had the opporunity to connect to their parents, relatives, siblings. Where as 351 students had no effect.
 
-**[Case Study 3: Analyzing sucide rates in the US between 2015-2020]()
+**[Case Study 3: Analyzing sucide rates in the US between 2015-2020]()**
 
 
   
