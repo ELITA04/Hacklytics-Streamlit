@@ -56,7 +56,7 @@ During the hackathon, we came across several hurdles which included
 
 In the long term, Mood Boost will be in the form of a bracelet which will send vibrations to notify the user when a negative mood is detected as well as display positive messages. It will also be able to track ongoing mood changes so users can view the fluctuations in their mood.
 
-## Contributors 👨‍💻
+## Team Members 👨‍💻
 - [Mandy Yip](https://github.com/mandyckyip)
 - [Utkarsh Mishra](https://github.com/utkarsh0702/)
 - [Elita Menezes](https://github.com/ELITA04)
